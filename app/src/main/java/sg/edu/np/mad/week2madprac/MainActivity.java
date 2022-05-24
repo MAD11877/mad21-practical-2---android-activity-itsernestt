@@ -50,12 +50,6 @@ public class MainActivity extends AppCompatActivity {
         iconName.setText(newUser.name);
         iconDesc.setText(newUser.description);
 
-        // Creating follow functions
-        followbtn.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-
-            }
-
-        });
+        
 
     }}
